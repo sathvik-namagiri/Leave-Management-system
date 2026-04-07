@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+sqlalchemy
+psycopg2
+pydantic
+streamlit
+requests
+passlib[argon2]
+argon2-cffi
+email-validator
