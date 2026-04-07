@@ -95,4 +95,4 @@ leave-management-system/
 
 
 
-I can make this README **stand out on GitHub (badges, animations, banners, recruiter-level polish)** 🚀
+
